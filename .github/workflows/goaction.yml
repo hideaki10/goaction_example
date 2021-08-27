@@ -17,4 +17,4 @@ jobs:
       - name: Example
         uses: ./
         with:
-          who: me
+          who: hhhj
